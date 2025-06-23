@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @manag2001
-- 👀 Cybersecurity Sophomore at CUI Islamabad
-- 🌱 I’m currently learning web dev
--  My fundamentals are python,java,C++ 
-- 📫 Instagram: @abdur_rehman2001
-
-<!---
-manag2001/manag2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Abdur Rehman
+- A Cybersecurity Analyst and a Blue team Aspirant
+-  Expertise in SIEM,XDR,EDR,CTI, DFIR Techniques
+ MY Github contains projects and code related to cybersecurity 
