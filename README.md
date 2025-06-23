@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdur Rehman
-- A Cybersecurity Analyst and a Blue team Aspirant
--  Expertise in SIEM,XDR,EDR,CTI, DFIR Techniques
- MY Github contains projects and code related to cybersecurity 
+- 👋 Hi, I’m Abdur Rehman.
+- A Cybersecurity Analyst and a Blue team Aspirant.
+-  Expertise in SIEM,XDR,EDR,CTI, DFIR Techniques.
+-  MY Github contains projects and code related to cybersecurity.
